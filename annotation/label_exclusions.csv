@@ -1,0 +1,191 @@
+layer,feature_id,feature_name
+fecal_metabolome,Com_14329_neg,2-Methylhippuric acid
+fecal_metabolome,Com_2714_pos,3-Acetyl-11-keto-β-boswellic acid
+fecal_metabolome,Com_4020_pos,4-(Diethylamino)benzaldehyde
+fecal_metabolome,Com_18224_neg,4-Chlorophenol
+fecal_metabolome,Com_23479_neg,4-Methylumbelliferyl glucuronide
+fecal_metabolome,Com_4569_pos,5-Aminosalicylic Acid
+fecal_metabolome,Com_31065_neg,6-Aminonicotinamide
+fecal_metabolome,Com_24286_pos,9-Aminoacridine
+fecal_metabolome,Com_17934_neg,Acetaminophen glucuronide
+fecal_metabolome,Com_68985_pos,Adipamide
+fecal_metabolome,Com_54817_pos,Aflatoxin M1
+fecal_metabolome,Com_25530_pos,Albendazole sulfone
+fecal_metabolome,Com_1543_pos,Andrographolide
+fecal_metabolome,Com_5188_pos,Arecoline
+fecal_metabolome,Com_39545_pos,Avobenzone
+fecal_metabolome,Com_9955_pos,Balsalazide
+fecal_metabolome,Com_2883_pos,Bufotenin
+fecal_metabolome,Com_2265_pos,Ciprostene
+fecal_metabolome,Com_39589_pos,Colchicine
+fecal_metabolome,Com_26242_pos,Cotinine N-oxide
+fecal_metabolome,Com_12082_neg,Cycloheximide
+fecal_metabolome,Com_14061_pos,Desloratadine
+fecal_metabolome,Com_61679_pos,Dextrorphan
+fecal_metabolome,Com_66196_pos,Diphenylamine
+fecal_metabolome,Com_4340_pos,Epoxomicin
+fecal_metabolome,Com_52865_pos,Estazolam
+fecal_metabolome,Com_20414_pos,Estradiol benzoate
+fecal_metabolome,Com_330_pos,Febuxostat
+fecal_metabolome,Com_52159_pos,Fenvalerate
+fecal_metabolome,Com_35473_pos,GW501516
+fecal_metabolome,Com_21541_pos,Gatifloxacin
+fecal_metabolome,Com_4922_pos,Guanethidine Monosulfate
+fecal_metabolome,Com_7556_pos,Indirubin
+fecal_metabolome,Com_58746_pos,Kanamycin
+fecal_metabolome,Com_20633_pos,Latanoprost
+fecal_metabolome,Com_24982_pos,Lumefantrine
+fecal_metabolome,Com_17207_pos,Mesalamine
+fecal_metabolome,Com_38881_pos,Mesterolone
+fecal_metabolome,Com_64707_pos,Minocycline
+fecal_metabolome,Com_12267_neg,Monobutyl phthalate
+fecal_metabolome,Com_24632_pos,Monocrotaline
+fecal_metabolome,Com_3101_pos,N-Desmethyltramadol
+fecal_metabolome,Com_3798_pos,N-Desmethylvenlafaxine
+fecal_metabolome,Com_40763_pos,Narasin
+fecal_metabolome,Com_20637_pos,P-Aminohippuric Acid
+fecal_metabolome,Com_4953_pos,Paracetamol
+fecal_metabolome,Com_65928_pos,Pazufloxacin
+fecal_metabolome,Com_7026_neg,Phenobarbital
+fecal_metabolome,Com_19491_pos,Pilocarpine
+fecal_metabolome,Com_18788_pos,Prednisolone tebutate
+fecal_metabolome,Com_1534_pos,Quinoline
+fecal_metabolome,Com_47210_pos,Rauwolscine
+fecal_metabolome,Com_6617_pos,Retrorsine
+fecal_metabolome,Com_11622_neg,Rifampicin
+fecal_metabolome,Com_89_pos,Rosuvastatin
+fecal_metabolome,Com_37478_pos,Sorbitan tristearate
+fecal_metabolome,Com_10097_neg,Trolox
+fecal_metabolome,Com_3690_pos,Verapamil hydrochloride
+fecal_metabolome,Com_2898_pos,α-Hydroxyalprazolam
+serum_metabolome,M290T393,(-)-atropine
+serum_metabolome,M430T164,"(e,2s,3r,4r,5s)-4-acetyloxy-2-amino-3,5,14-trihydroxyicos-6-enoic acid"
+serum_metabolome,M191T633,"1,1-dimethyl-4-phenylpiperazinium"
+serum_metabolome,M440T401,"1,3-cyclobutanedicarboxylic acid, 2,4-diphenyl-, 1-(1-naphthalenyl) ester, (1.beta.,2r,3.alpha.,4r)-"
+serum_metabolome,M155T290,1-naphthalenamine
+serum_metabolome,M540T203,1-o-hexadecyl-2-deoxy-2-thio-s-acetyl-sn-glyceryl-3-phosphorylcholine
+serum_metabolome,M618T293,"1-o-hexadecyl-2-o-acetyl-sn-glyceryl-3-phosphoryl(n,n,n-trimethyl)hexanolamine"
+serum_metabolome,M342T182,"1-pyrrolidineheptanoic acid, 2-(3-hydroxyoctyl)-5-oxo-"
+serum_metabolome,M365T173,"17,20-Dimethylprostaglandin F1α"
+serum_metabolome,M385T31,17-phenoxytrinorprostaglandin f2.alpha.
+serum_metabolome,M481T109,17-trifluoromethylphenyltrinorprostaglandin f2.alpha. isopropyl ester
+serum_metabolome,M453T105,17-trifluoromethylphenyltrinorprostaglandin f2.alpha. methyl ester
+serum_metabolome,M85T304,"1h-1,2,4-triazol-3-amine"
+serum_metabolome,M258T713,"1h-indole-3-carboxylic acid, 1-(cyclohexylmethyl)-"
+serum_metabolome,M230T323,"1h-indole-3-carboxylic acid, 1-pentyl-"
+serum_metabolome,M509T211,"2-[(2r,4as,8s,8as)-8-[2-[(4as,7r,8ar)-7-(1-carboxyethenyl)-1-hydroxy-4a-methyl-2-oxo-6,7,8,8a-tetrahydro-5h-naphthalen-1-yl]ethyl]-4a-methyl-7-oxo-1,2,3,4,8,8a-hexahydronaphthalen-2-yl]prop-2-enoic acid"
+serum_metabolome,M88T614,"2-amino-2-methyl-1,3-propanediol"
+serum_metabolome,M110T26,2-aminophenol
+serum_metabolome,M226T612,"2-chloro-2',6'-diethylacetanilide"
+serum_metabolome,M351T430,"2-furancarboxylic acid, 5-[3-[4-[2-(4-fluorophenyl)ethoxy]phenyl]propyl]-"
+serum_metabolome,M168T395,2-methoxy-5-nitrophenol
+serum_metabolome,M463T220,"2-naphthalenecarboxamide, n-[(1s)-2-[4-(5-chloro-2,3-dihydro-2-oxo-1h-benzimidazol-1-yl)-1-piperidinyl]-1-methylethyl]-"
+serum_metabolome,M525T118,"2-piperidinecarboxylic acid, 1-(3,3-dimethyl-1,2-dioxopentyl)-, (1r)-1-(3-aminophenyl)-3-(3,4-dimethoxyphenyl)propyl ester, (2s)-"
+serum_metabolome,M173T306_2,2-propylglutaric acid
+serum_metabolome,M174T310,"3,4-dimethylmethcathinone"
+serum_metabolome,M425T67,3-(n-maleimidopropionyl)biocytin
+serum_metabolome,M220T91,4'-methyl-n-methylhexanophenone
+serum_metabolome,M442T190,"4,4'-methylenebis(2,6-di-tert-butylphenol)"
+serum_metabolome,M135T211,4-hydroxyamphetamine
+serum_metabolome,M83T86,4-methyl-1h-pyrazole
+serum_metabolome,M154T148,4-nitrocatechol
+serum_metabolome,M385T34,"6h-dibenzo[b,d]pyran, 3-(1,1-dimethylheptyl)-6a,7,10,10a-tetrahydro-1-methoxy-6,6,9-trimethyl-, (6ar,10ar)-"
+serum_metabolome,M301T195,8phic8spc
+serum_metabolome,M351T171,"9,11-methane-epoxyprostaglandin f1.alpha."
+serum_metabolome,M497T109,"Acetamide, 2-[4-[(5,6-diphenyl-2-pyrazinyl)(1-methylethyl)amino]butoxy]-n-(methylsulfonyl)-"
+serum_metabolome,M230T23,Acetaminophen sulfate
+serum_metabolome,M134T158,Acetylaniline
+serum_metabolome,M94T259,Aniline
+serum_metabolome,M603T21,Antipain
+serum_metabolome,M305T79,Artemisinin
+serum_metabolome,M383T32_2,Artesunate
+serum_metabolome,M541T118,Atorvastatin
+serum_metabolome,M233T24_1,Azaconazole
+serum_metabolome,M749T282,Bacoside a
+serum_metabolome,M574T443,Benzoylhypaconine
+serum_metabolome,M457T34,Betulinic acid
+serum_metabolome,M348T281,Bisoprolol
+serum_metabolome,M229T421,Bisphenol a
+serum_metabolome,M445T419,Bufotalin
+serum_metabolome,M310T200_3,Butorphanol
+serum_metabolome,M240T217,Clomazon
+serum_metabolome,M172T154,Crimidine
+serum_metabolome,M537T38,Cucurbitacin i
+serum_metabolome,M326T198,Cycloxydime
+serum_metabolome,M483T186,Dehydrotumulosic acid
+serum_metabolome,M604T39,Desferrioxamine d2
+serum_metabolome,M206T77,Dexpanthenol
+serum_metabolome,M352T203,Dipivefrine
+serum_metabolome,M836T34,Dirithromycin
+serum_metabolome,M175T220,Edaravone
+serum_metabolome,M592T300,Edpetiline
+serum_metabolome,M756T384,Erythromycin (e-mycin)
+serum_metabolome,M477T39,Flumethasone pivalate
+serum_metabolome,M433T38,Forskolin
+serum_metabolome,M109T107,Fosetyl
+serum_metabolome,M154T46,Gabapentin related compound a
+serum_metabolome,M629T132,Gambogic acid
+serum_metabolome,M497T341,Geneticin
+serum_metabolome,M214T394,Guanabenz
+serum_metabolome,M215T314,Harmaline
+serum_metabolome,M437T105,Hc toxin
+serum_metabolome,M341T157,"Hexadecanedioic acid, 3,3,14,14-tetramethyl-"
+serum_metabolome,M102T180,Hexylamine
+serum_metabolome,M276T271,Homatropine
+serum_metabolome,M306T408,Imazamox
+serum_metabolome,M254T197,Irgarol
+serum_metabolome,M240T197,Isoetharine
+serum_metabolome,M356T203,Lappaconitine
+serum_metabolome,M343T169,Lauramidopropylbetaine
+serum_metabolome,M284T218,Levallorphan
+serum_metabolome,M322T151,Lobelanidine
+serum_metabolome,M247T316,Marmesin
+serum_metabolome,M248T318,Mefenoxam
+serum_metabolome,M275T31,Menthyl salicylate
+serum_metabolome,M371T94,Methyl (1-(cyclohexylmethyl)-1h-indole-3-carbonyl)-l-valinate
+serum_metabolome,M184T310_2,Methyprylon
+serum_metabolome,M443T30,Mitoxantrone
+serum_metabolome,M460T401,Morphine-3-glucuronide
+serum_metabolome,M327T87,"N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1h-indole-3-carboxamide"
+serum_metabolome,M370T176,N-arachidonylmaleimide
+serum_metabolome,M360T207,Napelline
+serum_metabolome,M429T34_2,Neoruscogenin
+serum_metabolome,M254T203,Normorphine
+serum_metabolome,M300T199,Nylidrin
+serum_metabolome,M393T95,Octaethylene glycol
+serum_metabolome,M297T27,Ostruthin
+serum_metabolome,M231T4_1,Parthenolide
+serum_metabolome,M263T44,Pentachlorophenol
+serum_metabolome,M286T210_2,Pentazocine
+serum_metabolome,M286T260_1,Pentoxazone
+serum_metabolome,M307T430,Perchloroterephthalic acid
+serum_metabolome,M449T21,Perfluoroheptane sulfonic acid (pfhps)
+serum_metabolome,M223T209,Phenindione
+serum_metabolome,M209T31,Pilocarpine
+serum_metabolome,M243T215,Primaquine
+serum_metabolome,M525T160,"Propanoic acid, 2-[[4-[2-[[(cyclohexylamino)carbonyl](4-cyclohexylbutyl)amino]ethyl]phenyl]thio]-2-methyl-"
+serum_metabolome,M187T180,"Propanoic acid, 3-[[[2-[(aminoiminomethyl)amino]-4-thiazolyl]methyl]thio]-"
+serum_metabolome,M260T221_3,Propranolol
+serum_metabolome,M233T195,Protriptyline
+serum_metabolome,M154T713,Pseudopelletierine
+serum_metabolome,M543T219,Puberanidine
+serum_metabolome,M72T300,Pyrrolidine
+serum_metabolome,M334T402,Seneciphyllin
+serum_metabolome,M150T163,Senkirkin
+serum_metabolome,M430T267_2,Sipeimine
+serum_metabolome,M305T90_1,Tabersonine
+serum_metabolome,M413T33,Testosterone cypionate
+serum_metabolome,M318T371,Tetrabenazine
+serum_metabolome,M201T163,Tetrahydrozoline
+serum_metabolome,M673T138,Thapsigargin
+serum_metabolome,M253T372,Thiacloprid
+serum_metabolome,M359T395,"Thieno[2,3-b]pyridine-5-carbonitrile, 6,7-dihydro-4-hydroxy-3-(2'-hydroxy[1,1'-biphenyl]-4-yl)-6-oxo-"
+serum_metabolome,M281T30,Thunalbene
+serum_metabolome,M258T25,Tolmetin
+serum_metabolome,M597T195,Toosendanin
+serum_metabolome,M362T383,Topiramate
+serum_metabolome,M479T20,Triamcinolone diacetate
+serum_metabolome,M408T394,Trifluoroperazine
+serum_metabolome,M347T136,Urushiol II
+serum_metabolome,M241T34,Yangonin
+serum_metabolome,M264T22,Zaleplon
